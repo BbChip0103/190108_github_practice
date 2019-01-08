@@ -2,7 +2,7 @@ def devide(a, b):
     pass
 
 def multiply(a, b):
-    pass
+    return a*b
 
 def add(a, b):
     return a+b
